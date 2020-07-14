@@ -8,11 +8,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{DF059AD6-8E49-478A-8DB9-883895682945}"
 	ProjectSection(SolutionItems) = preProject
 		CSparp-8-Features.md = CSparp-8-Features.md
+		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingDeclarations", "UsingDeclarations\UsingDeclarations.csproj", "{CF0E8F34-C5AE-4FFA-AD0D-00225FC778FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDeclarations", "UsingDeclarations\UsingDeclarations.csproj", "{CF0E8F34-C5AE-4FFA-AD0D-00225FC778FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticLocalFunctions", "StaticLocalFunctions\StaticLocalFunctions.csproj", "{D07E38D1-12DF-4CEF-A6A4-7CC41D87989D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticLocalFunctions", "StaticLocalFunctions\StaticLocalFunctions.csproj", "{D07E38D1-12DF-4CEF-A6A4-7CC41D87989D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
