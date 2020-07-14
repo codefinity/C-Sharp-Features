@@ -20,6 +20,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-5", "CSharp-5", "{33
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallerInfoAttributes", "CallerInfoAttributes\CallerInfoAttributes.csproj", "{39B137C2-6A18-4E3F-A5A8-0B595B57E98F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-6", "CSharp-6", "{E197282C-AC9E-47FD-BFE5-1B0643924663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionFilters", "ExceptionFilters\ExceptionFilters.csproj", "{9467C0A6-69E6-47D0-9ED8-BF3BC56B7687}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,10 @@ Global
 		{39B137C2-6A18-4E3F-A5A8-0B595B57E98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39B137C2-6A18-4E3F-A5A8-0B595B57E98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39B137C2-6A18-4E3F-A5A8-0B595B57E98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9467C0A6-69E6-47D0-9ED8-BF3BC56B7687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9467C0A6-69E6-47D0-9ED8-BF3BC56B7687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9467C0A6-69E6-47D0-9ED8-BF3BC56B7687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9467C0A6-69E6-47D0-9ED8-BF3BC56B7687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -46,6 +54,7 @@ Global
 		{CF0E8F34-C5AE-4FFA-AD0D-00225FC778FB} = {1ABBF2D8-C090-448F-A4A1-F15129BE83B6}
 		{D07E38D1-12DF-4CEF-A6A4-7CC41D87989D} = {1ABBF2D8-C090-448F-A4A1-F15129BE83B6}
 		{39B137C2-6A18-4E3F-A5A8-0B595B57E98F} = {334448FD-BEDD-4385-ADDB-6DABD1286A44}
+		{9467C0A6-69E6-47D0-9ED8-BF3BC56B7687} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
