@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{DF059AD6-8E49-478A-8DB9-883895682945}"
 	ProjectSection(SolutionItems) = preProject
 		CSharp-5-Features.md = CSharp-5-Features.md
+		CSharp-6-Features.md = CSharp-6-Features.md
 		CSharp-8-Features.md = CSharp-8-Features.md
 		README.md = README.md
 	EndProjectSection
