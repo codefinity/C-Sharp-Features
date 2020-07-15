@@ -37,21 +37,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-7", "CSharp-7", "{2C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-2", "CSharp-2", "{14AE2337-9ACC-4C9C-9B26-A5B13CC09321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImplementedProperties", "AutoImplementedProperties\AutoImplementedProperties.csproj", "{333C93A3-33CC-4F48-A5DA-7BB5FD1B1B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoImplementedProperties", "AutoImplementedProperties\AutoImplementedProperties.csproj", "{333C93A3-33CC-4F48-A5DA-7BB5FD1B1B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypes", "AnonymousTypes\AnonymousTypes.csproj", "{18DF4B10-1805-4B0D-8EDE-4A6E77FA7E11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypes", "AnonymousTypes\AnonymousTypes.csproj", "{18DF4B10-1805-4B0D-8EDE-4A6E77FA7E11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{698A7C81-762E-45D9-8598-B688B51FBB1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{698A7C81-762E-45D9-8598-B688B51FBB1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialMethods", "PartialMethods\PartialMethods.csproj", "{4B43BEEF-7B19-4243-B345-BE53E48552F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialMethods", "PartialMethods\PartialMethods.csproj", "{4B43BEEF-7B19-4243-B345-BE53E48552F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{2BEB92B2-E807-44FF-9E6A-3A95DEF797B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartialClasses", "PartialClasses\PartialClasses.csproj", "{2BEB92B2-E807-44FF-9E6A-3A95DEF797B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectAndCollectionInitializers", "ObjectAndCollectionInitializers\ObjectAndCollectionInitializers.csproj", "{F71588CB-DEF3-47CF-A35D-96EFA62AD51C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectAndCollectionInitializers", "ObjectAndCollectionInitializers\ObjectAndCollectionInitializers.csproj", "{F71588CB-DEF3-47CF-A35D-96EFA62AD51C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitlyTypedLocalVariables", "ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables.csproj", "{9A068265-C7F7-4D29-9E44-00B2C38C3677}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImplicitlyTypedLocalVariables", "ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables.csproj", "{9A068265-C7F7-4D29-9E44-00B2C38C3677}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{1E5D5197-6551-4401-869C-7E4DFFCB5726}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{1E5D5197-6551-4401-869C-7E4DFFCB5726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryExpression", "QueryExpression\QueryExpression.csproj", "{E4F13554-D55F-4942-AAA8-A7AA638CBB70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +109,10 @@ Global
 		{1E5D5197-6551-4401-869C-7E4DFFCB5726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E5D5197-6551-4401-869C-7E4DFFCB5726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E5D5197-6551-4401-869C-7E4DFFCB5726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4F13554-D55F-4942-AAA8-A7AA638CBB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4F13554-D55F-4942-AAA8-A7AA638CBB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4F13554-D55F-4942-AAA8-A7AA638CBB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4F13554-D55F-4942-AAA8-A7AA638CBB70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,6 +130,7 @@ Global
 		{F71588CB-DEF3-47CF-A35D-96EFA62AD51C} = {F6CD69B5-FB1F-477C-91B1-8A0D1AC5C9DC}
 		{9A068265-C7F7-4D29-9E44-00B2C38C3677} = {F6CD69B5-FB1F-477C-91B1-8A0D1AC5C9DC}
 		{1E5D5197-6551-4401-869C-7E4DFFCB5726} = {F6CD69B5-FB1F-477C-91B1-8A0D1AC5C9DC}
+		{E4F13554-D55F-4942-AAA8-A7AA638CBB70} = {F6CD69B5-FB1F-477C-91B1-8A0D1AC5C9DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
