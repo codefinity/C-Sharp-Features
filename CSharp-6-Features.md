@@ -1,8 +1,8 @@
 Read-only auto-properties		- Done
 Static imports					-
 Exception filters				- Done
-Auto-property initializers		-
-Expression bodied members		-
+Auto-property initializers		- Done
+Expression bodied members		- Done
 Null propagator					-
 String interpolation			-
 nameof operator					-
