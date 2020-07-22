@@ -78,6 +78,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionBodiedFunctionMem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatic", "UsingStatic\UsingStatic.csproj", "{E59958F3-FA96-4DF6-8952-580658AD04D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalOperator", "NullConditionalOperator\NullConditionalOperator.csproj", "{54BC7497-B587-4FAB-9BBD-AC14AC261382}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -176,6 +178,10 @@ Global
 		{E59958F3-FA96-4DF6-8952-580658AD04D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E59958F3-FA96-4DF6-8952-580658AD04D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E59958F3-FA96-4DF6-8952-580658AD04D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54BC7497-B587-4FAB-9BBD-AC14AC261382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BC7497-B587-4FAB-9BBD-AC14AC261382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BC7497-B587-4FAB-9BBD-AC14AC261382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BC7497-B587-4FAB-9BBD-AC14AC261382}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -204,6 +210,7 @@ Global
 		{20193BC3-F691-4CFE-BFBF-E3FCFDBF47F4} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 		{DC3A0E08-987E-49CE-A69D-AD8E5ABB7DD1} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 		{E59958F3-FA96-4DF6-8952-580658AD04D3} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
+		{54BC7497-B587-4FAB-9BBD-AC14AC261382} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
