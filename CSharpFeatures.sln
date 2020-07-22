@@ -82,6 +82,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalOperator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{C67E5C10-3289-4D2D-89C6-228CFF4211F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOfExpression", "NameOfExpression\NameOfExpression.csproj", "{FD12B67D-84FA-439E-95F3-7B8739F4BF97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -188,6 +190,10 @@ Global
 		{C67E5C10-3289-4D2D-89C6-228CFF4211F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67E5C10-3289-4D2D-89C6-228CFF4211F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67E5C10-3289-4D2D-89C6-228CFF4211F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD12B67D-84FA-439E-95F3-7B8739F4BF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD12B67D-84FA-439E-95F3-7B8739F4BF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD12B67D-84FA-439E-95F3-7B8739F4BF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD12B67D-84FA-439E-95F3-7B8739F4BF97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -218,6 +224,7 @@ Global
 		{E59958F3-FA96-4DF6-8952-580658AD04D3} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 		{54BC7497-B587-4FAB-9BBD-AC14AC261382} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 		{C67E5C10-3289-4D2D-89C6-228CFF4211F9} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
+		{FD12B67D-84FA-439E-95F3-7B8739F4BF97} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}

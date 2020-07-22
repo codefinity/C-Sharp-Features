@@ -72,10 +72,10 @@ namespace StringInterpolation
             //The following example shows how to include a brace in a result string and 
             //how to use a conditional operator in an interpolation expression:
 
-            string name = "Horace";
+            string nameX = "Horace";
             int age = 34;
             Console.WriteLine($"He asked, \"Is your name {name}?\", but didn't wait for a reply :-{{");
-            Console.WriteLine($"{name} is {age} year{(age == 1 ? "" : "s")} old.");
+            Console.WriteLine($"{nameX} is {age} year{(age == 1 ? "" : "s")} old.");
             // Expected output is:
             // He asked, "Is your name Horace?", but didn't wait for a reply :-{
             // Horace is 34 years old.

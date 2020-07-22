@@ -5,7 +5,7 @@ Auto-property initializers		- Done
 Expression bodied members		- Done
 Null propagator					- Done
 String interpolation			- Done
-nameof operator					-
+nameof operator					- Done
 Index initializers				-
 
 Other new features include:
