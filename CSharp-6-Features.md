@@ -6,9 +6,9 @@ Expression bodied members		- Done
 Null propagator					- Done
 String interpolation			- Done
 nameof operator					- Done
-Index initializers				-
+Index initializers				- Done
 
 Other new features include:
 
-Await in catch/finally blocks
+Await in catch/finally blocks	- Done
 Default values for getter-only properties

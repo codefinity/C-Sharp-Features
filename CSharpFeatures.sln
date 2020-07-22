@@ -94,6 +94,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.2", "7.2", "{EDE77814-ACB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexInitializers", "IndexInitializers\IndexInitializers.csproj", "{39A83EDC-3F16-4C0C-BBFD-FBD05A671136}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitInCatchAndFinallyBlocks", "AwaitInCatchAndFinallyBlocks\AwaitInCatchAndFinallyBlocks.csproj", "{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -208,6 +210,10 @@ Global
 		{39A83EDC-3F16-4C0C-BBFD-FBD05A671136}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39A83EDC-3F16-4C0C-BBFD-FBD05A671136}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39A83EDC-3F16-4C0C-BBFD-FBD05A671136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -244,6 +250,7 @@ Global
 		{F469F0A6-62B2-480C-B20F-CDB31B1F2CEA} = {2C40EEB1-9DA3-4BC6-8D0A-DF1A086458F4}
 		{EDE77814-ACBC-4E08-9DAC-AF5171514867} = {2C40EEB1-9DA3-4BC6-8D0A-DF1A086458F4}
 		{39A83EDC-3F16-4C0C-BBFD-FBD05A671136} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
+		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
