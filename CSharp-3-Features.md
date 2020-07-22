@@ -1,7 +1,7 @@
 Auto-implemented properties					- Done
 Anonymous types								- Done
 Query expressions							- Done
-Lambda expressions							-
+Lambda expressions							- Done
 Expression trees							-
 Extension methods							- Done
 Implicitly typed local variables			- Done

@@ -11,6 +11,9 @@ namespace AnonymousMethods
             //Anonymous methods in C# can be defined using the delegate keyword and can be 
             //assigned to a variable of delegate type.
 
+            //It is useful when the user wants to create an inline method and also 
+            //wants to pass parameter in the anonymous method like other methods. 
+
             Print print = delegate (int val) {
                 Console.WriteLine("Inside Anonymous method. Value: {0}", val);
             };
