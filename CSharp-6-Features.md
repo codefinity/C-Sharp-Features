@@ -1,11 +1,12 @@
-Static imports
-Exception filters - Done
-Auto-property initializers
-Expression bodied members
-Null propagator
-String interpolation
-nameof operator
-Index initializers
+Read-only auto-properties		-
+Static imports					-
+Exception filters				- Done
+Auto-property initializers		-
+Expression bodied members		-
+Null propagator					-
+String interpolation			-
+nameof operator					-
+Index initializers				-
 
 Other new features include:
 
