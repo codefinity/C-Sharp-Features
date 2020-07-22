@@ -1,4 +1,4 @@
-Read-only auto-properties		-
+Read-only auto-properties		- Done
 Static imports					-
 Exception filters				- Done
 Auto-property initializers		-
