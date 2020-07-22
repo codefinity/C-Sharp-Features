@@ -4,7 +4,7 @@ Exception filters				- Done
 Auto-property initializers		- Done
 Expression bodied members		- Done
 Null propagator					- Done
-String interpolation			-
+String interpolation			- Done
 nameof operator					-
 Index initializers				-
 
