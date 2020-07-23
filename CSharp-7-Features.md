@@ -7,7 +7,7 @@ You can declare out values inline as arguments to the method where they're used.
 Tuples
 You can create lightweight, unnamed types that contain multiple public fields. Compilers and IDE tools understand the semantics of these types.
 
-Discards
+Discards						- Done
 Discards are temporary, write-only variables used in assignments when you don't care about the value assigned. They're most useful when deconstructing tuples and user-defined types, as well as when calling methods with out parameters.
 
 Pattern Matching
