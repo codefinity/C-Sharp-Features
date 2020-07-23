@@ -62,27 +62,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-1", "CSharp-1", "{13
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{79529A83-CDD7-4685-95A8-691650D1512F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicType", "DynamicType\DynamicType.csproj", "{27FFFC05-532C-420A-9DEB-1C5986F3B708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicType", "DynamicType\DynamicType.csproj", "{27FFFC05-532C-420A-9DEB-1C5986F3B708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedArguments", "NamedArguments\NamedArguments.csproj", "{98D8E14F-722A-4EA9-917D-ABF4D5E908C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamedArguments", "NamedArguments\NamedArguments.csproj", "{98D8E14F-722A-4EA9-917D-ABF4D5E908C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalArguments", "OptionalArguments\OptionalArguments.csproj", "{B881F74C-79FB-43BB-82C0-C02129379769}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionalArguments", "OptionalArguments\OptionalArguments.csproj", "{B881F74C-79FB-43BB-82C0-C02129379769}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsynchronousProgramming", "AsynchronousProgramming\AsynchronousProgramming.csproj", "{9F5BAD51-46FF-4476-B6AE-A0410EA9F3A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsynchronousProgramming", "AsynchronousProgramming\AsynchronousProgramming.csproj", "{9F5BAD51-46FF-4476-B6AE-A0410EA9F3A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadOnlyAutoProperties", "ReadOnlyAutoProperties\ReadOnlyAutoProperties.csproj", "{AAEDB11C-DC57-4B41-9387-79F48A7A157A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadOnlyAutoProperties", "ReadOnlyAutoProperties\ReadOnlyAutoProperties.csproj", "{AAEDB11C-DC57-4B41-9387-79F48A7A157A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPropertyInitializers", "AutoPropertyInitializers\AutoPropertyInitializers.csproj", "{20193BC3-F691-4CFE-BFBF-E3FCFDBF47F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoPropertyInitializers", "AutoPropertyInitializers\AutoPropertyInitializers.csproj", "{20193BC3-F691-4CFE-BFBF-E3FCFDBF47F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionBodiedFunctionMembers", "ExpressionBodiedFunctionMembers\ExpressionBodiedFunctionMembers.csproj", "{DC3A0E08-987E-49CE-A69D-AD8E5ABB7DD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpressionBodiedFunctionMembers", "ExpressionBodiedFunctionMembers\ExpressionBodiedFunctionMembers.csproj", "{DC3A0E08-987E-49CE-A69D-AD8E5ABB7DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingStatic", "UsingStatic\UsingStatic.csproj", "{E59958F3-FA96-4DF6-8952-580658AD04D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingStatic", "UsingStatic\UsingStatic.csproj", "{E59958F3-FA96-4DF6-8952-580658AD04D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullConditionalOperator", "NullConditionalOperator\NullConditionalOperator.csproj", "{54BC7497-B587-4FAB-9BBD-AC14AC261382}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullConditionalOperator", "NullConditionalOperator\NullConditionalOperator.csproj", "{54BC7497-B587-4FAB-9BBD-AC14AC261382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{C67E5C10-3289-4D2D-89C6-228CFF4211F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringInterpolation", "StringInterpolation\StringInterpolation.csproj", "{C67E5C10-3289-4D2D-89C6-228CFF4211F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameOfExpression", "NameOfExpression\NameOfExpression.csproj", "{FD12B67D-84FA-439E-95F3-7B8739F4BF97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameOfExpression", "NameOfExpression\NameOfExpression.csproj", "{FD12B67D-84FA-439E-95F3-7B8739F4BF97}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.0", "7.0", "{3A562857-D694-4085-B914-4A164720F589}"
 EndProject
@@ -92,9 +92,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.3", "7.3", "{F469F0A6-62B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.2", "7.2", "{EDE77814-ACBC-4E08-9DAC-AF5171514867}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexInitializers", "IndexInitializers\IndexInitializers.csproj", "{39A83EDC-3F16-4C0C-BBFD-FBD05A671136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexInitializers", "IndexInitializers\IndexInitializers.csproj", "{39A83EDC-3F16-4C0C-BBFD-FBD05A671136}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwaitInCatchAndFinallyBlocks", "AwaitInCatchAndFinallyBlocks\AwaitInCatchAndFinallyBlocks.csproj", "{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwaitInCatchAndFinallyBlocks", "AwaitInCatchAndFinallyBlocks\AwaitInCatchAndFinallyBlocks.csproj", "{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutVariableImprovement", "OutVariableImprovement\OutVariableImprovement.csproj", "{6FF7408B-3564-4B55-827D-F12332354978}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -214,6 +218,14 @@ Global
 		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF7408B-3564-4B55-827D-F12332354978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF7408B-3564-4B55-827D-F12332354978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF7408B-3564-4B55-827D-F12332354978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF7408B-3564-4B55-827D-F12332354978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +263,8 @@ Global
 		{EDE77814-ACBC-4E08-9DAC-AF5171514867} = {2C40EEB1-9DA3-4BC6-8D0A-DF1A086458F4}
 		{39A83EDC-3F16-4C0C-BBFD-FBD05A671136} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
+		{6FF7408B-3564-4B55-827D-F12332354978} = {3A562857-D694-4085-B914-4A164720F589}
+		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2} = {3A562857-D694-4085-B914-4A164720F589}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}

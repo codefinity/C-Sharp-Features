@@ -14,6 +14,9 @@ namespace AutoPropertyInitializers
         //making it easier to equate the storage allocation with the public interface for Student objects.
         public ICollection<double> Grades { get; } = new List<double>();
 
+        //Default values for getter-only properties
+        public string MobileNo { get; } = "XX-XXXX-XXXX";
+
         public string Addess { get; set; } = "Address";
 
         public string FirstName { get; }

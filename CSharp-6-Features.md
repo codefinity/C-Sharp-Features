@@ -11,4 +11,4 @@ Index initializers				- Done
 Other new features include:
 
 Await in catch/finally blocks	- Done
-Default values for getter-only properties
+Default values for getter-only properties	-Done (in AutoPropertyInitializers Project)
