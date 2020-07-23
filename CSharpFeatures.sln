@@ -96,9 +96,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IndexInitializers", "IndexI
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AwaitInCatchAndFinallyBlocks", "AwaitInCatchAndFinallyBlocks\AwaitInCatchAndFinallyBlocks.csproj", "{4A78FABB-B3B7-4DEE-B002-951F7D6A2972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutVariableImprovement", "OutVariableImprovement\OutVariableImprovement.csproj", "{6FF7408B-3564-4B55-827D-F12332354978}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutVariableImprovement", "OutVariableImprovement\OutVariableImprovement.csproj", "{6FF7408B-3564-4B55-827D-F12332354978}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuples", "Tuples\Tuples.csproj", "{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tuples", "Tuples\Tuples.csproj", "{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discards", "Discards\Discards.csproj", "{72B5A5CC-D406-4747-8C05-A8F872101EBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -226,6 +228,10 @@ Global
 		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B5A5CC-D406-4747-8C05-A8F872101EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B5A5CC-D406-4747-8C05-A8F872101EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B5A5CC-D406-4747-8C05-A8F872101EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B5A5CC-D406-4747-8C05-A8F872101EBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +271,7 @@ Global
 		{4A78FABB-B3B7-4DEE-B002-951F7D6A2972} = {E197282C-AC9E-47FD-BFE5-1B0643924663}
 		{6FF7408B-3564-4B55-827D-F12332354978} = {3A562857-D694-4085-B914-4A164720F589}
 		{1088E1B4-729C-4E21-A1D8-860F6EEA19D2} = {3A562857-D694-4085-B914-4A164720F589}
+		{72B5A5CC-D406-4747-8C05-A8F872101EBE} = {3A562857-D694-4085-B914-4A164720F589}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}

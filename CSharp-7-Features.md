@@ -4,7 +4,7 @@
 out variables					- Done
 You can declare out values inline as arguments to the method where they're used.
 
-Tuples
+Tuples							- Done
 You can create lightweight, unnamed types that contain multiple public fields. Compilers and IDE tools understand the semantics of these types.
 
 Discards						- Done
