@@ -19,10 +19,10 @@ Method local variables and return values can be references to other storage.
 Local Functions
 You can nest functions inside other functions to limit their scope and visibility.
 
-More expression-bodied members
+More expression-bodied members	- Done
 The list of members that can be authored using expressions has grown.
 
-throw Expressions
+throw Expressions				- Done
 You can throw exceptions in code constructs that previously weren't allowed because throw was a statement.
 
 Generalized async return types
