@@ -16,7 +16,7 @@ You can create branching logic based on arbitrary types and values of the member
 ref locals and returns
 Method local variables and return values can be references to other storage.
 
-Local Functions
+Local Functions					- Done
 You can nest functions inside other functions to limit their scope and visibility.
 
 More expression-bodied members	- Done
