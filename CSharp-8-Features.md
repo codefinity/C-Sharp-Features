@@ -6,7 +6,7 @@ Property patterns
 Tuple patterns
 Positional patterns
 Using declarations									- Done
-Static local functions
+Static local functions								- Done
 Disposable ref structs
 Nullable reference types
 Asynchronous streams
