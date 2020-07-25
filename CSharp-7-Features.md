@@ -1,4 +1,4 @@
-7.1 Features
+7.0 Features
 ------------
 
 out variables					- Done
@@ -30,3 +30,19 @@ Methods declared with the async modifier can return other types in addition to T
 
 Numeric literal syntax improvements
 New tokens improve readability for numeric constants.
+
+
+7.1 Features
+------------
+
+async Main method				- Done
+The entry point for an application can have the async modifier.
+
+default literal expressions
+You can use default literal expressions in default value expressions when the target type can be inferred.
+
+Inferred tuple element names
+The names of tuple elements can be inferred from tuple initialization in many cases.
+
+Pattern matching on generic type parameters
+You can use pattern match expressions on variables whose type is a generic type parameter.
