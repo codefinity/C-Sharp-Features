@@ -108,6 +108,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExpressions", "ThrowEx
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunctions", "LocalFunctions\LocalFunctions.csproj", "{9F5F9024-F821-4D24-B65E-74751CB0C39F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{1A9EB525-934E-4CD4-B377-57208EE526CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -250,6 +252,10 @@ Global
 		{9F5F9024-F821-4D24-B65E-74751CB0C39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F5F9024-F821-4D24-B65E-74751CB0C39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F5F9024-F821-4D24-B65E-74751CB0C39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A9EB525-934E-4CD4-B377-57208EE526CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A9EB525-934E-4CD4-B377-57208EE526CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A9EB525-934E-4CD4-B377-57208EE526CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A9EB525-934E-4CD4-B377-57208EE526CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -293,6 +299,7 @@ Global
 		{466F748A-023D-4CB6-98E5-FDA287FA13DE} = {3A562857-D694-4085-B914-4A164720F589}
 		{A0965E83-4281-4E66-BFE9-FE41E7DB0356} = {3A562857-D694-4085-B914-4A164720F589}
 		{9F5F9024-F821-4D24-B65E-74751CB0C39F} = {3A562857-D694-4085-B914-4A164720F589}
+		{1A9EB525-934E-4CD4-B377-57208EE526CC} = {3A562857-D694-4085-B914-4A164720F589}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}

@@ -10,7 +10,7 @@ You can create lightweight, unnamed types that contain multiple public fields. C
 Discards						- Done
 Discards are temporary, write-only variables used in assignments when you don't care about the value assigned. They're most useful when deconstructing tuples and user-defined types, as well as when calling methods with out parameters.
 
-Pattern Matching
+Pattern Matching				- Done
 You can create branching logic based on arbitrary types and values of the members of those types.
 
 ref locals and returns
