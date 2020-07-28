@@ -38,7 +38,7 @@ New tokens improve readability for numeric constants.
 async Main method				- Done
 The entry point for an application can have the async modifier.
 
-default literal expressions
+default literal expressions		- Done
 You can use default literal expressions in default value expressions when the target type can be inferred.
 
 Inferred tuple element names

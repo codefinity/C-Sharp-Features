@@ -112,6 +112,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMainMethod", "AsyncMainMethod\AsyncMainMethod.csproj", "{1B750AB0-C441-4B73-AF3A-CDF16FB5E114}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultIiteralExpressions", "DefaultIiteralExpressions\DefaultIiteralExpressions.csproj", "{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -262,6 +264,10 @@ Global
 		{1B750AB0-C441-4B73-AF3A-CDF16FB5E114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B750AB0-C441-4B73-AF3A-CDF16FB5E114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B750AB0-C441-4B73-AF3A-CDF16FB5E114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -307,6 +313,7 @@ Global
 		{9F5F9024-F821-4D24-B65E-74751CB0C39F} = {3A562857-D694-4085-B914-4A164720F589}
 		{1A9EB525-934E-4CD4-B377-57208EE526CC} = {3A562857-D694-4085-B914-4A164720F589}
 		{1B750AB0-C441-4B73-AF3A-CDF16FB5E114} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
+		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
