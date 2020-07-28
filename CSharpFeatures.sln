@@ -104,15 +104,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Discards", "Discards\Discar
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreExpressionBodiedMembers", "MoreExpressionBodiedMembers\MoreExpressionBodiedMembers.csproj", "{466F748A-023D-4CB6-98E5-FDA287FA13DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExpressions", "ThrowExpressions\ThrowExpressions.csproj", "{A0965E83-4281-4E66-BFE9-FE41E7DB0356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowExpressions", "ThrowExpressions\ThrowExpressions.csproj", "{A0965E83-4281-4E66-BFE9-FE41E7DB0356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalFunctions", "LocalFunctions\LocalFunctions.csproj", "{9F5F9024-F821-4D24-B65E-74751CB0C39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalFunctions", "LocalFunctions\LocalFunctions.csproj", "{9F5F9024-F821-4D24-B65E-74751CB0C39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{1A9EB525-934E-4CD4-B377-57208EE526CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatching", "PatternMatching\PatternMatching.csproj", "{1A9EB525-934E-4CD4-B377-57208EE526CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncMainMethod", "AsyncMainMethod\AsyncMainMethod.csproj", "{1B750AB0-C441-4B73-AF3A-CDF16FB5E114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncMainMethod", "AsyncMainMethod\AsyncMainMethod.csproj", "{1B750AB0-C441-4B73-AF3A-CDF16FB5E114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefaultIiteralExpressions", "DefaultIiteralExpressions\DefaultIiteralExpressions.csproj", "{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultIiteralExpressions", "DefaultIiteralExpressions\DefaultIiteralExpressions.csproj", "{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferredTupleElementNames", "InferredTupleElementNames\InferredTupleElementNames.csproj", "{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -268,6 +270,10 @@ Global
 		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -314,6 +320,7 @@ Global
 		{1A9EB525-934E-4CD4-B377-57208EE526CC} = {3A562857-D694-4085-B914-4A164720F589}
 		{1B750AB0-C441-4B73-AF3A-CDF16FB5E114} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
 		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
+		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
