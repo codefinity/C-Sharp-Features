@@ -14,6 +14,13 @@
 
 ## C# 2
 
+- Generics
+- Partial types
+- Anonymous methods
+- Nullable value types
+- Iterators
+- Covariance and contravariance
+
 ## C# 3
 
 ## C# 4
