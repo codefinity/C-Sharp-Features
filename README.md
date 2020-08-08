@@ -12,7 +12,7 @@
 - Statements
 - Attributes
 
-## C# 2
+### C# 2
 
 - Generics
 - Partial types
@@ -21,7 +21,7 @@
 - Iterators
 - Covariance and contravariance
 
-## C# 3
+### C# 3
 
 - Auto-implemented properties
 - Anonymous types
@@ -33,19 +33,19 @@
 - Partial methods
 - Object and collection initializers
 
-## C# 4
+### C# 4
 
 - Dynamic binding
 - Named/optional arguments
 - Generic covariant and contravariant
 - Embedded interop types
 
-## C# 5
+### C# 5
 
 - Asynchronous members
 - Caller info attributes
 
-## C# 6
+### C# 6
 
 - Static imports
 - Exception filters
@@ -56,7 +56,7 @@
 - nameof operator
 - Index initializers
 
-## C# 7.0
+### C# 7.0
 
 - Out variables
 - Tuples and deconstruction
@@ -109,7 +109,7 @@ The new compiler options are:
 - -publicsign to enable Open Source Software (OSS) signing of assemblies.
 - -pathmap to provide a mapping for source directories.
 
-## C# 8
+### C# 8
 
 - Readonly members
 - Default interface methods
@@ -129,6 +129,6 @@ The new compiler options are:
 - Stackalloc in nested expressions
 - Enhancement of interpolated verbatim strings
 
-## C# 9
+### C# 9
 
 Not yet released
