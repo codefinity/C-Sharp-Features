@@ -5,19 +5,6 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-8", "CSharp-8", "{1ABBF2D8-C090-448F-A4A1-F15129BE83B6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{DF059AD6-8E49-478A-8DB9-883895682945}"
-	ProjectSection(SolutionItems) = preProject
-		CSharp-1-Features.md = CSharp-1-Features.md
-		CSharp-2-Features.md = CSharp-2-Features.md
-		CSharp-3-Features.md = CSharp-3-Features.md
-		CSharp-4-Features.md = CSharp-4-Features.md
-		CSharp-5-Features.md = CSharp-5-Features.md
-		CSharp-6-Features.md = CSharp-6-Features.md
-		CSharp-7-Features.md = CSharp-7-Features.md
-		CSharp-8-Features.md = CSharp-8-Features.md
-		README.md = README.md
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UsingDeclarations", "UsingDeclarations\UsingDeclarations.csproj", "{CF0E8F34-C5AE-4FFA-AD0D-00225FC778FB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticLocalFunctions", "StaticLocalFunctions\StaticLocalFunctions.csproj", "{D07E38D1-12DF-4CEF-A6A4-7CC41D87989D}"
@@ -59,8 +46,9 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousMethods", "AnonymousMethods\AnonymousMethods.csproj", "{488348F6-DE2C-4FCE-8E70-2D50703BB1C8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp-1", "CSharp-1", "{1361D969-B252-4293-ABFD-6335A7C09337}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "Delegates\Delegates.csproj", "{79529A83-CDD7-4685-95A8-691650D1512F}"
+	ProjectSection(SolutionItems) = preProject
+		CSharp-1\CSharp-1-Features.md = CSharp-1\CSharp-1-Features.md
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicType", "DynamicType\DynamicType.csproj", "{27FFFC05-532C-420A-9DEB-1C5986F3B708}"
 EndProject
@@ -114,7 +102,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AsyncMainMethod", "AsyncMai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefaultIiteralExpressions", "DefaultIiteralExpressions\DefaultIiteralExpressions.csproj", "{D61B7CDF-97B2-48DA-979E-C54D58BB5A06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferredTupleElementNames", "InferredTupleElementNames\InferredTupleElementNames.csproj", "{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InferredTupleElementNames", "InferredTupleElementNames\InferredTupleElementNames.csproj", "{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegates", "CSharp-1\Delegates\Delegates.csproj", "{7081441B-6EE9-4AD5-93C7-571882C4605B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -178,10 +168,6 @@ Global
 		{488348F6-DE2C-4FCE-8E70-2D50703BB1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{488348F6-DE2C-4FCE-8E70-2D50703BB1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{488348F6-DE2C-4FCE-8E70-2D50703BB1C8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{79529A83-CDD7-4685-95A8-691650D1512F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{79529A83-CDD7-4685-95A8-691650D1512F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{79529A83-CDD7-4685-95A8-691650D1512F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{79529A83-CDD7-4685-95A8-691650D1512F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{27FFFC05-532C-420A-9DEB-1C5986F3B708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{27FFFC05-532C-420A-9DEB-1C5986F3B708}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FFFC05-532C-420A-9DEB-1C5986F3B708}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -274,6 +260,10 @@ Global
 		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7081441B-6EE9-4AD5-93C7-571882C4605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7081441B-6EE9-4AD5-93C7-571882C4605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7081441B-6EE9-4AD5-93C7-571882C4605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7081441B-6EE9-4AD5-93C7-571882C4605B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -293,7 +283,6 @@ Global
 		{1E5D5197-6551-4401-869C-7E4DFFCB5726} = {F6CD69B5-FB1F-477C-91B1-8A0D1AC5C9DC}
 		{E4F13554-D55F-4942-AAA8-A7AA638CBB70} = {F6CD69B5-FB1F-477C-91B1-8A0D1AC5C9DC}
 		{488348F6-DE2C-4FCE-8E70-2D50703BB1C8} = {14AE2337-9ACC-4C9C-9B26-A5B13CC09321}
-		{79529A83-CDD7-4685-95A8-691650D1512F} = {1361D969-B252-4293-ABFD-6335A7C09337}
 		{27FFFC05-532C-420A-9DEB-1C5986F3B708} = {6C06FA44-A51D-4EB3-98F4-A3C062320640}
 		{98D8E14F-722A-4EA9-917D-ABF4D5E908C3} = {6C06FA44-A51D-4EB3-98F4-A3C062320640}
 		{B881F74C-79FB-43BB-82C0-C02129379769} = {6C06FA44-A51D-4EB3-98F4-A3C062320640}
@@ -321,6 +310,7 @@ Global
 		{1B750AB0-C441-4B73-AF3A-CDF16FB5E114} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
 		{D61B7CDF-97B2-48DA-979E-C54D58BB5A06} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
 		{FC55ACD2-1E9C-48A4-8596-24B6177BC27F} = {E44774C5-CF61-44FC-AADC-0E5260C4FA76}
+		{7081441B-6EE9-4AD5-93C7-571882C4605B} = {1361D969-B252-4293-ABFD-6335A7C09337}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E2E316BD-21B1-4825-9D48-CA4B808B7E33}
